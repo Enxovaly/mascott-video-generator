@@ -1,0 +1,10 @@
+{
+  "kind": "still",
+  "name": "summer-heat",
+  "createdAt": "2026-08-07T11:30:47.935Z",
+  "referenceFiles": [],
+  "sourceFile": "outputs/summer-heat-20260807T113047Z/summer-heat-source.png",
+  "outputFiles": [
+    "outputs/summer-heat-20260807T113047Z/summer-heat.png"
+  ]
+}

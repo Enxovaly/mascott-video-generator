@@ -1,0 +1,9 @@
+Use case: precise-object-edit
+Asset type: approved Enxovaly summer animation keyframe
+Input images: Image 1 is the edit target and pose/composition to preserve; Image 2 is the primary identity reference; Image 3 is secondary expression and style guidance.
+Primary request: preserve the mascot, face, open-eyed expression, reclined sipping pose, pineapple cup, straw, and overall composition from Image 1. Change only the beach chair construction to a compact continuous solid lavender-and-cream padded beach lounger with rounded toy-like edges and a simple solid silhouette. The lounger must have no thin wooden X-frame, no open triangular frame, and no enclosed gaps or holes that show the white background inside the chair silhouette.
+Scene/backdrop: pure white seamless studio background with only a very small soft contact shadow directly below the solid lounger; no broad floor patch.
+Style/medium: polished premium soft 3D toy render matching the references.
+Composition/framing: square, centered, full mascot and full lounger visible, generous padding on every edge.
+Constraints: change only chair construction and reduce the shadow. Keep exactly one mascot, one pineapple cup, one straw, two mitten-like lavender arms, two dark-brown oval feet, one centered crescent curl, canonical face and overlapping lavender swaddle panels. Preserve identity and colors.
+Avoid: any thin chair frame, holes in the chair silhouette, white islands inside the subject, broad white ground region, identity drift, changed face, extra limbs, fingers, duplicate props, text, logos, scenery, crop.
